@@ -1,0 +1,27 @@
+body{
+    font-family: Helvetica;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+
+article h2{
+    color: greenyellow;
+}
+
+section h2{
+    color: blue;
+}
+
+h2 + p{
+    font-style: italic;
+}
+
+h2+p{
+    color: violet;
+}
+
+h2{
+    text-decoration: underline;
+}
